@@ -29,7 +29,7 @@ export class SignIn extends Component {
                         <input type="password" id="password" onChange={this.handleChange} />
                     </div>
                     <dev className="input-field">
-                        <button className="btn green lighten-3 z-depth-0 5">Login</button>
+                        <button className="btn green darken-3 z-depth-0.5">Login</button>
                     </dev>
                 </form>
             </div>
